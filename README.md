@@ -4,8 +4,8 @@
 
 ### **1️ Clone the Repository**
 ```
-git clone https://github.com/YOUR_GITHUB_USERNAME/nestjs-news-api.git
-cd nestjs-news-api
+git clone git@github.com:ndrkbrg/crypto_news_aggregator.git
+cd crypto_news_aggregator
 ```
 
 ### 2️⃣ Run docker compose**
